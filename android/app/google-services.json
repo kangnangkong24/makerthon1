@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173072849056",
+    "firebase_url": "https://umpaumpa-pampam57-default-rtdb.firebaseio.com",
+    "project_id": "umpaumpa-pampam57",
+    "storage_bucket": "umpaumpa-pampam57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173072849056:android:f64778e9a71fe3383c51c5",
+        "android_client_info": {
+          "package_name": "com.example.makerthon1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YMbUB61U7aJZ6jwZ2VFuGlz6E5waWuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
